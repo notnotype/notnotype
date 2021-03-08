@@ -4,7 +4,7 @@
             <td>
                 呐呐呐， 欧尼酱(>ω<)~~(超级肉麻)， 
                 诶多捏诶多捏，瓦塔西就是那个，二次元得斯（｡ò ∀ ó｡）~~ ( 超级得意)。
-                二次元の美好, 那群八嘎是体会不到的呢（笑）★。目前正在努力学习，也非常喜欢画插画（wolp大大永远的神！）对建模和游戏也有兴趣呢。<br>
+                二次元の美好, 那群八嘎是体会不到的呢（笑）★。目前正在努力学习，也非常喜欢画插画（wlop大大永远的神！）对建模和游戏也有兴趣呢。<br>
                 <strong>I Use: </strong>
                 <ul>
                     <li><img src="https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff" alt="Python"></li>
