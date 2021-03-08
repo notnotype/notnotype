@@ -13,7 +13,7 @@
 
 </div>
 
-  <div style="float: left; width: 70%">
+<div style="float: left; width: 70%">
     <table>
   <tr>
     <td>
@@ -26,5 +26,7 @@
     </td>
   </tr>
 </table>
-  </div>
+  
+</div>
+
 </div>
