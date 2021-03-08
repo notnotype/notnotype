@@ -1,23 +1,28 @@
-### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notnotype" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notnotype&layout=compact" />
-</a>
+<div>
+  <div style="float: left; width: 40%">
+    Here are some ideas to get you started: <br>
 
-
-<!--
-**notnotype/notnotype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - 🔭 I’m currently working on ... <br>
+    - 🌱 I’m currently learning ...<br>
+    - 👯 I’m looking to collaborate on ...<br>
+    - 🤔 I’m looking for help with ...<br>
+    - 💬 Ask me about ...<br>
+    - 📫 How to reach me: ...<br>
+    - 😄 Pronouns: ...<br>
+    - ⚡ Fun fact: ...<br>
+  </div>
+  <div style="float: left;">
+    <table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=notnotype&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&bg_color=right,141e30,243b55" />
+    </td>
+  <tr>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notnotype&layout=compact&theme=algolia&bg_color=right,141e30,243b55&card_width=445" />
+    </td>
+  </tr>
+</table>
+  </div>
+</div>
