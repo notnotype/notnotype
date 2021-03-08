@@ -1,16 +1,18 @@
 <div>
+  
   <div style="float: left; width: 40%">
     Here are some ideas to get you started: <br>
 
-    - 🔭 I’m currently working on ... <br>
-    - 🌱 I’m currently learning ...<br>
-    - 👯 I’m looking to collaborate on ...<br>
-    - 🤔 I’m looking for help with ...<br>
-    - 💬 Ask me about ...<br>
-    - 📫 How to reach me: ...<br>
-    - 😄 Pronouns: ...<br>
-    - ⚡ Fun fact: ...<br>
+    🔭 I’m currently working on ... <br>
+    🌱 I’m currently learning ...<br>
+    👯 I’m looking to collaborate on ...<br>
+    🤔 I’m looking for help with ...<br>
+    💬 Ask me about ...<br>
+    📫 How to reach me: ...<br>
+    😄 Pronouns: ...<br>
+    ⚡ Fun fact: ...<br>
   </div>
+  
   <div style="float: left;">
     <table>
   <tr>
