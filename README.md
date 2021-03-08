@@ -1,6 +1,7 @@
 <div>
   
   <div style="float: left; width: 40%">
+  
     Here are some ideas to get you started: <br>
 
     🔭 I’m currently working on ... <br>
@@ -11,9 +12,11 @@
     📫 How to reach me: ...<br>
     😄 Pronouns: ...<br>
     ⚡ Fun fact: ...<br>
+    
   </div>
   
   <div style="float: left;">
+  
     <table>
   <tr>
     <td>
@@ -27,4 +30,5 @@
   </tr>
 </table>
   </div>
+  
 </div>
