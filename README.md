@@ -16,7 +16,7 @@
                     <li><img src="https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff" alt="Kotlin"></li>
                 </ul>
                 呐呐呐， 欧尼酱(≧ω≦)， 想和我一起玩的话可以通过下面的方式找到我(๑°⌓°๑)<br>
-                <mail>notnotype@gmail.com</mail>
+                <mail>notnotype@gmail.com</mail><br>
                 <a src="http://blog.notnotype.com">http://blog.notnotype.com</a>
             </td>
             <td>
