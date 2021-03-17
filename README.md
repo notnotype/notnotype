@@ -4,13 +4,14 @@
             <td>
                 呐呐呐， 欧尼酱(>ω<)~~(超级肉麻)， 
                 诶多捏诶多捏，瓦塔西就是那个，二次元得斯（｡ò ∀ ó｡）~~ ( 超级得意)。
-                二次元の美好, 那群八嘎是体会不到的呢（笑）★。<br>目前正在努力学习计算机科学，非常喜欢画画，最喜欢的画师是wlop，对建模和游戏制造也有兴趣。<br>
+                二次元の美好, 那群八嘎是体会不到的呢（笑）★。
+                <br>是前端工程师，偶尔是后端，深度学习炼丹中。目前正在学习许多有趣的东西，非常喜欢画画，最喜欢的画师是wlop，对建模和游戏制作也有兴趣。<br>
                 <strong>I Use: </strong>
                 <ul>
                     <li><img src="https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff" alt="Python"></li>
                     <li><img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=fff" alt="JavaScript"></li>
                 </ul>
-                <strong>I Want to learn</strong>: 
+                <strong>I Want to Learn</strong>: 
                 <ul>
                     <li><img src="https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff" alt="Java"></li>
                     <li><img src="https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff" alt="Kotlin"></li>
