@@ -31,6 +31,7 @@
 ![Django](https://img.shields.io/badge/-Django-%092e20?style=flat-square&logo=Django&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Vim](https://img.shields.io/badge/-Vim-informational?style=flat-square&logo=vim&logoColor=%23ffffff) 
+![FastApi](https://img.shields.io/badge/-FastApi-%092e20?style=flat-square&logo=FastApi&logoColor=ffffff)
                 <br/>
                 <strong>I Want to Learn</strong>: 
                 <ul>
