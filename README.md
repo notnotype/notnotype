@@ -6,12 +6,32 @@
                 诶多捏诶多捏，瓦塔西就是那个，二次元得斯（｡ò ∀ ó｡）~~ ( 超级得意)。
                 二次元の美好, 那群八嘎是体会不到的呢（笑）★。
                 <br>是前端工程师，偶尔是后端，偶尔炼丹，偶尔画画。正在学习许多有趣的东西，喜欢wlop，想学blender， ue4。<br>
-                <strong>I Use: </strong>
-                <ul>
-                    <li><img src="https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff" alt="Python"></li>
-                    <li><img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=fff" alt="JavaScript"></li>
-                    <li><img src="https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff" alt="Java"></li>
-                </ul>
+                <strong>I Use: </strong><br/>
+                <img src="https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff" alt="Python">
+                <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=fff" alt="JavaScript">
+                <img src="https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff" alt="Java">
+                
+[![OS](https://img.shields.io/badge/OS-windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/IDE-intellijidea-blue?style=flat-square&logo=intellij-idea&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=notnotypeの博客&url=http://blog.notnotype.com)](http://blog.notnotype.com)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/-JAVA-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-%6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-%6DB33F?style=flat-square&logo=spring&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Mybatis](https://img.shields.io/badge/-Mybatis-%232c3e50?style=flat-square)
+![Netty](https://img.shields.io/badge/-Netty-%234B32C3?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=Python&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-%092e20?style=flat-square&logo=Django&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Vim](https://img.shields.io/badge/-Vim-informational?style=flat-square&logo=vim&logoColor=%23ffffff) 
+                <br/>
                 <strong>I Want to Learn</strong>: 
                 <ul>
                     <li><img src="https://img.shields.io/badge/-Go-ab7288?style=flat-square&logo=Go&logoColor=fff" alt="Java"></li>
