@@ -2,11 +2,12 @@
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-                Hi there, I am nontotype.
-                - Illustrator
-                - Frontend Engineer
-                - Student
-
+                <h1>Hi there, I am nontotype.</h1>
+                <ul>
+                <li>Illustrator</li>
+                <li>Frontend Engineer</li>
+                <li>Student</li>
+                </ul>
                 <strong>I Use: </strong><br/>
                 <img src="https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff" alt="Python">
                 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=fff" alt="JavaScript">
