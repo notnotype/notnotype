@@ -2,10 +2,11 @@
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-                呐呐呐， 欧尼酱(>ω<)~~(超级肉麻)， 
-                诶多捏诶多捏，瓦塔西就是那个，二次元得斯（｡ò ∀ ó｡）~~ ( 超级得意)。
-                二次元の美好, 那群八嘎是体会不到的呢（笑）★。
-                <br>是前端工程师，偶尔是后端，偶尔炼丹，偶尔画画。正在学习许多有趣的东西，喜欢wlop，想学blender， ue4。<br>
+                Hi there, I am nontotype.
+                - Illustrator
+                - Frontend Engineer
+                - Student
+
                 <strong>I Use: </strong><br/>
                 <img src="https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff" alt="Python">
                 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=fff" alt="JavaScript">
@@ -33,12 +34,12 @@
 ![Vim](https://img.shields.io/badge/-Vim-informational?style=flat-square&logo=vim&logoColor=%23ffffff) 
 ![FastApi](https://img.shields.io/badge/-FastApi-%092e20?style=flat-square&logo=FastApi&logoColor=ffffff)
                 <br/>
-                <strong>I Want to Learn</strong>: 
+                <strong>Learning</strong>: 
                 <ul>
                     <li><img src="https://img.shields.io/badge/-Go-ab7288?style=flat-square&logo=Go&logoColor=fff" alt="Java"></li>
                     <li><img src="https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff" alt="Kotlin"></li>
                 </ul>
-                呐呐呐， 欧尼酱(≧ω≦)， 想和我一起玩的话可以通过下面的方式找到我(๑°⌓°๑)<br>
+                Contracts:<br>
                 <mail>notnotype@gmail.com</mail><br>
                 <a src="http://blog.notnotype.com">http://blog.notnotype.com</a>
             </td>
@@ -61,7 +62,3 @@
 </html>
 
 ![notnotye](https://count.getloli.com/get/@notnotype)
-
-人家的profile被这么多人看光了
-
-哈子卡西(//̀Д/́/)
